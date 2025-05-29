@@ -9,13 +9,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rsq-am&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rsq-am&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rsq-am&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rsq-am&icon=6&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rsq-am&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
